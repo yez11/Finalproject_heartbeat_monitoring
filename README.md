@@ -8,8 +8,6 @@ In this project, I designed a heart rate monitor system using Arduino and heartb
 	
 ## Components Required
 * Arduino UNO x1
-* OLED display x1
-* Breadboard
 * Connecting wires
 * Heartbeat sensor module
 
