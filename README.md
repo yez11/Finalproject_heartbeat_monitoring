@@ -11,7 +11,7 @@ In this project, I designed a heart rate monitor system using Arduino and pulse 
 * Connecting wires
 * Pulse sensor module x1
 * Breadboard x1
-* OLED x1
+* 0.96'' SSD1306 OLED x1
 
 ## Setup
 1. According to the wiring.jpg, wiring the project.
