@@ -9,7 +9,9 @@ In this project, I designed a heart rate monitor system using Arduino and pulse 
 ## Components Required
 * Arduino UNO x1
 * Connecting wires
-* Pulse sensor module
+* Pulse sensor module x1
+* Breadboard x1
+* OLED x1
 
 ## Setup
 To run this project, install Arduino IDE in the lastest version.
