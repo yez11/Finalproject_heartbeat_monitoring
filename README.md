@@ -16,7 +16,7 @@ In this project, I designed a heart rate monitor system using Arduino and pulse 
 ## Setup
 1. According to the wiring.jpg, wiring the project.
 2. To run this project, install Arduino IDE in the lastest version.
-3. You need to add two files into your Arduino library which are Adafruit-GFX... and Adafruit_SSD1306...
+3. You need to add two files into your Arduino library which are Adafruit-GFX... and Adafruit_SSD1306...( Those two libraries are for the OLED. The Adafruit_SSD1306 is the library for the OLED, and Adafruit-GTX... is the core of OLED graphic. )
 4. Then, compile and upload the pulse_sensor.ino.
 
 ## Possible difficulties
