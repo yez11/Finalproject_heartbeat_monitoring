@@ -23,3 +23,5 @@ In this project, I designed a heart rate monitor system using Arduino and pulse 
 
 ## Possible difficulties
 There might be some difficulties when we are building our project. For example, When you wiring the project, be carful with the pin connection or not it will not working.     One thing you might get confused, after you upload the program and you didn't put your finger on the pulse sensor, but there are some waves on the OLED. That is because the pulse sensor essentially a light sensor, this is very important, don't think there are some problems when the OLED have some waves. The way to solve that is to cover the sensor with a black obstruction to prevent outside light from entering. 
+
+## Demo link
