@@ -4,7 +4,7 @@
 Pulse sensor is an electronic device that is used to measure the heart rate, like the speed of the heartbeat. Monitoring body temperature, heart rate and blood pressure are the basic things that we can do in order to keep us healthy. Heart rate can be monitored in two ways: one way is to check the pulse either at wrist or the other way is to use a pulse sensor.
 
 ## General info
-In this project, I designed a heart rate monitor system using Arduino and pulse sensor. Heartbeat is measured in beats per minute or bpm, which indicates the number of times the heart is contracting or expanding in a minute. The principle behind the working of the pulse sensor is photoplethysmography. According to this principle, the changes in the volume of blood in an organ is measured by the changes in the intensity of the light passing through that organ. Then, I will use OLED to display the ECG and display the bpm.
+In this project, I designed a heart rate monitor system using Arduino and pulse sensor. Heartbeat is measured in beats per minute or bpm, which indicates the number of times the heart is contracting or expanding in a minute. The principle behind the working of the pulse sensor is photoplethysmography. According to this principle, the changes in the volume of blood in an organ is measured by the changes in the intensity of the light passing through that organ. Then, I will use OLED to display the Electrocardiogram and display the bpm.
 	
 ## Components Required
 * Arduino UNO x1
